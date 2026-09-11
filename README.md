@@ -2,8 +2,6 @@
 
 Bộ giáo trình dạy học viên online dựng hình nội thất bằng SketchUp và đưa file sang sản xuất CNC (ván công nghiệp MDF / MFC / Picomat). Nội dung được hệ thống từ khóa học: công cụ nền tảng → dựng module tủ → gán liên kết → nesting → CAM Aspire → vận hành máy.
 
-Nguồn gốc: cuộc trò chuyện Gemini [share.gemini.google/0OUd1Ajn5K1W](https://share.gemini.google/0OUd1Ajn5K1W).
-
 ## Mục lục
 
 ### Giai đoạn 1 — Nền tảng SketchUp
