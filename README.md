@@ -3,11 +3,14 @@
 Bộ giáo trình dạy học viên online dựng hình nội thất bằng SketchUp và đưa file sang sản xuất CNC (ván công nghiệp MDF / MFC / Picomat). Nội dung được hệ thống từ khóa học: công cụ nền tảng → dựng module tủ → gán liên kết → nesting → CAM Aspire → vận hành máy.
 
 
+
 ## Tra cứu tool GG Cabinet Tools
 
-Hướng dẫn từng tool trên toolbar plugin (thao tác, phím tắt, lỗi thường gặp) — dùng kèm khi học Giai đoạn 3–4:
+Hướng dẫn **đầy đủ từng tool** trên toolbar plugin (thao tác, phím tắt, lỗi thường gặp):
 
-- **[Giáo trình sử dụng tool — GG Cabinet Tools](https://github.com/truonglh2372/gg_cms/blob/main/docs/user-guide/README.md)**
+- **[Trong repo này — mục lục tool](tools-gg-cabinet/README.md)**
+- Bản gốc trên code: [gg_cms docs/user-guide](https://github.com/truonglh2372/gg_cms/blob/main/docs/user-guide/README.md)
+
 
 ## Mục lục
 
