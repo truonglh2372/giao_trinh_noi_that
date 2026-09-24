@@ -52,7 +52,7 @@
 
 ---
 
-### 3. Công cụ Circle (Phím tắt: C) & Polygon (S)(cũ drop) - Vẽ đường tròn & Đa giác
+### 3. Công cụ Circle (Phím tắt: C) & Polygon (S) - Vẽ đường tròn & Đa giác
 * **Công dụng:** Vẽ lỗ khoan đợt di động, lỗ khoét bản lề âm, khoét lỗ dây điện, chân bàn tròn.
 * **Thao tác thực hành:**
   1. Bấm phím **C**.
